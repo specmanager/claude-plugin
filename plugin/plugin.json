@@ -1,0 +1,13 @@
+{
+  "name": "specmanager-claude-plugin",
+  "version": "1.0.0",
+  "description": "Commands and agents for working with specmanager.ai task management",
+  "author": {
+    "name": "specmanager.ai",
+    "homepage": "https://specmanager.ai"
+  },
+  "repository": "https://github.com/specmanager/claude-plugin",
+  "keywords": ["specmanager.ai", "tasks", "project-management", "code-review"],
+  "commands": "./commands/",
+  "agents": "./agents/"
+}
