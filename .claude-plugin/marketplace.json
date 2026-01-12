@@ -14,7 +14,7 @@
       "author": {
         "name": "Andrew Karp"
       },
-      "license": "GPL-3.0",
+      "license": "MIT",
       "repository": "https://github.com/specmanager/claude-plugin",
       "homepage": "https://specmanager.ai",
       "source": "./.claude-plugin"
