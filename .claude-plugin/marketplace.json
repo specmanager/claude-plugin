@@ -1,0 +1,23 @@
+{
+  "name": "spec-manager",
+  "owner": {
+    "name": "SpecManager"
+  },
+  "metadata": {
+    "description": "specmanager.ai - Spec Management Made easy"
+  },
+  "plugins": [
+    {
+      "name": "@specmanager/claude-plugin",
+      "version": "1.0.0",
+      "description": "Claude plugin for specmanager.ai - hosted spec generation made easy",
+      "author": {
+        "name": "Andrew Karp"
+      },
+      "license": "GPL-3.0",
+      "repository": "https://github.com/specmanager/claude-plugin",
+      "homepage": "https://specmanager.ai",
+      "source": "./.claude-plugin"
+    }
+  ]
+}
